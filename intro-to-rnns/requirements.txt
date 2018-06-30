@@ -1,4 +1,4 @@
-this maybe wrk'n intro-to-rnns
+this should wrk'n intro-to-rnns
 appdirs==1.4.3
 appnope==0.1.0
 bleach==2.0.0
