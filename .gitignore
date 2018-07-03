@@ -6,7 +6,7 @@ embeddings/text8.zip
 face_generation/data/
 
 .ipynb_checkpoints/
-
+checkpoints/
 
 *.pyc
 *.p
@@ -16,3 +16,4 @@ face_generation/data/
 *.gz
 *.pickle
 *.zip
+intro-to-rnns/Anna_KaRNNa.ipynb
